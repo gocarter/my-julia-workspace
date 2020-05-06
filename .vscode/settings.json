@@ -1,0 +1,5 @@
+{
+    "julia.environmentPath": "/home/carter/my_git_repos/my-julia-workspace/venv",
+    "julia.trace.server": "verbose",
+    "julia.usePlotPane": true
+}
